@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esther A. Strahl
-- 👀 I am a data analyst with a passion for transforming data into actionable insights. I have a strong background in data manipulation, visualization, and statistical analysis. I am dedicated to helping organizations make data-driven decisions and solve complex problems.
+- 👀 I have a passion for transforming data into actionable insights. 
 - 💞️ I’m looking to collaborate on Data Analytics and Business Intelligence projects
 - 📫 how to reach me: [Email](estherstrahl@gmail.com)
 
