@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Esther A. Strahl
-- 👀 I’m interested in SQL, R, Tableau
-- 🌱 I’m currently learning and honing my skills in the use of SQL, R, and Tableau for Data Analysis
+- 👀 I am a data analyst with a passion for transforming data into actionable insights. I have a strong background in data manipulation, visualization, and statistical analysis. I am dedicated to helping organizations make data-driven decisions and solve complex problems.
 - 💞️ I’m looking to collaborate on Data Analytics and Business Intelligence projects
 - 📫 how to reach me: [Email](estherstrahl@gmail.com)
 
